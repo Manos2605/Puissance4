@@ -4,11 +4,9 @@
 **Puissance 4** est un jeu de société classique où deux joueurs s'affrontent pour aligner quatre pions de leur couleur dans une grille.
 
 ## Fonctionnalités
-- Jouer à Puissance 4 contre un autre joueur.
-- Interface graphique simple et intuitive.
 - Modes de jeu : joueur contre joueur et joueur contre ordinateur (IA).
 
-## Installation
+## 2xécution
 Pour exécuter ce projet localement, suivez les étapes ci-dessous :
 
 1. Clonez le dépôt :
